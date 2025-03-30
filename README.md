@@ -1,2 +1,0 @@
-# His
-Hospital information system 
